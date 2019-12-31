@@ -1,5 +1,4 @@
-# This project is just  another example how we can use "canvas" , "javascript objects concepts " and  some simple yet powerfull 
-# Mathematical operations to visualise  PARTICLES  .( THIS TIME AS A "FIREFLY" ) 
+# This project is just  another example how we can use "canvas" , "javascript objects concepts " and  some simple yet powerfull Mathematical operations to visualise  PARTICLES  .( THIS TIME AS A "FIREFLY" ) 
 
 THIS IS JUST ADVANCED VERSION OF MY LAST EXPERIMENTS ON  ANIMATIONS USING "HMTL CANVAS API ".
 SO , WHAT DOES IT HAVE  MORE THAN FORMER ONE ?
@@ -27,15 +26,15 @@ MOST AMUSING PART !!
 
 # HOW TO USE IT 
 ```
-  *Clone the repo 
+  * Clone the repo 
   ```
   ```
-  *open the directory in terminal
+  * open the directory in terminal
   ```
   ```
   *npm start run 
   ```
   
   # How it Works 
-   *when you move your mouse , set of FIREFLY OBJECT is created and DISAPPEARS  after its LIFE_SPAN!
-   *Other geometries are also included . just as a random experiment to showcase what potential it bears!
+   * when you move your mouse , set of FIREFLY OBJECT is created and DISAPPEARS  after its LIFE_SPAN!
+   * Other geometries are also included . just as a random experiment to showcase what potential it bears!
